@@ -1,0 +1,28 @@
+_repo: The-evolution-of-religion-b-An-anthropological-study_71722
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farnell, Lewis Richard
+    birthdate: 1856
+    deathdate: 1934
+    gutenberg_agent_id: '56212'
+    url: http://www.gutenberg.org/2009/agents/56212
+    wikipedia: https://en.wikipedia.org/wiki/Lewis_Richard_Farnell
+description: ''
+gutenberg_issued: '2023-09-25'
+identifiers:
+  gutenberg: '71722'
+language: en
+pgterms:marc904: https://archive.org/details/evolutionofrelig00farn
+pgterms:marc905: 20230921111808farnell
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aNew York :$bG. P. Putnam’s Sons, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The evolution of religion : $b An anthropological study'
+url: http://www.gutenberg.org/ebooks/71722

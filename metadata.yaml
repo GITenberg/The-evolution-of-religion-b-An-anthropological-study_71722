@@ -1,5 +1,8 @@
 _repo: The-evolution-of-religion-b-An-anthropological-study_71722
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71722-h/images/cover.jpg
 creator:
   author:
     agent_name: Farnell, Lewis Richard
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56212
     wikipedia: https://en.wikipedia.org/wiki/Lewis_Richard_Farnell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71722#The-evolution-of-religion-b-An-anthropological-study
 gutenberg_issued: '2023-09-25'
 identifiers:
   gutenberg: '71722'
